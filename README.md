@@ -13,3 +13,4 @@ The goal of our project is to move away from the methods presented in our origni
 
 WORD2VEC: We will classify high income as above $150,000 and low income as below $30,000
 
+
