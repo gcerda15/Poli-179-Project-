@@ -8,3 +8,8 @@ Our research question is whether the methods used in our article, "Essay content
 SAT scores have consistently been criticized for their use of wealth test tactics, and many Universities have placed a greeater emphasis on holistic approaches. As a response, UC schools have placed a greater emphasis on college admittance essays, to serve as better representation of students individuality. However, research indicates that essays too fall into "wealth test" patterns, with more well rounded topics pertaining to higher socioeconomic status. This reiterates the siginificant impact and burden of wealth in the education system and the impact it has on social mobility. 
 
 The goal of our project is to move away from the methods presented in our origninal article (LIWC and CTM) and utilize word2vec to rank the degree to which words are highly associated with families economic background. 
+
+## METHODOLOGY 
+
+WORD2VEC: We will classify high income as above $150,000 and low income as below $30,000
+
