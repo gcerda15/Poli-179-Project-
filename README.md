@@ -13,4 +13,5 @@ The goal of our project is to move away from the methods presented in our origni
 
 WORD2VEC: We will classify high income as above $150,000 and low income as below $30,000
 
-
+## STRUGGLES
+We are in the process of figuring out if we need to create a new variable indicating which of the columns are words in the essays and which of the columns are topics in the essays. 
