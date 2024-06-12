@@ -1,3 +1,1 @@
-from google.colab import drive
-drive.mount('/content/drive')
-! cp -r /content/drive/MyDrive/[Poli 179 Final Project] /content/
+https://dataverse.harvard.edu/file.xhtml?fileId=5254463&version=3.0
