@@ -19,3 +19,7 @@ In order to perform our regression, we utilized the initial code our researchers
 After running the regression on both summed embeddings we found the following:  Dictionary features + summed dictionary embeddings produced an adjusted R-squared of 13% compared to original authors 0.129. The average mean squared average resulted in 16471341235.27767 which indicates there is unreliable accuracy within our methods. Topic features + summed embeddings produced an adjusted R-squared of 17% compared to original authors R2  = 16%.  The average mean squared average resulted in 15505853603.688473 which implies there is an inaccuracy in our methods. 
 In addition to our regression analysis, in order to further understand and explain our results we added an income docile graph inspired from our original paper's figures. In this figure, income is organized across ten groups, marking ten as the highest form of income. Our findings show that in both dictionaries and topics, R squared tends to be highest in the 10th decile. This means both dictionaries (R2= 4-6%) and topics (R2=10%) have a stronger relationship to high income households. Through these findings, we can conclude our model did trivial change to the original methods R-Squared. However, we did see a one percent increase in our R-squared for topic embeddings. 
 
+## Figures 
+![Adjusted $R^2$ of FAMILY_INCOME Explained by Income Decile](https://raw.githubusercontent.com/gcerda15/Poli-179-Project-/3e232a90e8fead05964978e0455878ea5ee5e171/Adjusted%20R2%20Figure)
+
+
